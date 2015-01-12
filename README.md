@@ -1,5 +1,3 @@
-# Active Record Lite!
+A study in Rails ActiveRecord::Base
 
-Instructions for the project may be found [here][instructions].
-
-[instructions]: https://github.com/appacademy/sql-curriculum/blob/master/projects/w3d5-build-your-own-ar.md
+Built my own belongs_to, has_many, and has_one_through
